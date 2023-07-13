@@ -15,6 +15,9 @@ module.exports = {
           default: ' hsl(220, 16%, 96%)',
           dark: ' hsl(233, 8%, 62%)',
         }
+      },
+      backgroundImage:{
+        'bgImg': './public/images/'
       }
     },
   },
